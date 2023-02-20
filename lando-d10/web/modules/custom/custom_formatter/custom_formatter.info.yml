@@ -1,0 +1,6 @@
+name: 'Custom Field Formatter'
+type: module
+description: 'Provide a new formatter for plain text i.e. Bold Text.'
+core_version_requirement: ^10
+dependencies:
+ - field
