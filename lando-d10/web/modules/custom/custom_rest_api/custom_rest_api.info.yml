@@ -1,0 +1,5 @@
+name: 'Custom Rest API'
+type: module
+description: 'Provide custom webservices'
+core_version_requirement: ^10
+package: Custom

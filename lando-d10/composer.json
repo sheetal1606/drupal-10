@@ -23,6 +23,7 @@
         "drupal/core-recommended": "^10.0.0",
         "drupal/entity_print": "^2.11",
         "drupal/paragraphs": "^1.15",
+        "drupal/restui": "^1.21",
         "drupal/views_data_export": "^1.2",
         "drupal/views_pdf": "^3.0@alpha",
         "drush/drush": "^11.4.0",
